@@ -1,0 +1,29 @@
+body{
+    background-color: #E9ECEF;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul li a{
+    text-decoration: none;
+    color: black
+}
+ul li a:hover{
+    color:rgb(96, 93, 93);
+    transition: 0.1s;
+}
+.alert-heading a{
+    text-decoration: none;
+    color: black;
+}
+.alert-heading a:hover{
+    text-decoration: underline;
+}
+.navbar-nav a{
+    text-decoration: none;
+}
+.navbar-nav a:hover{
+    text-decoration: underline;
+}
